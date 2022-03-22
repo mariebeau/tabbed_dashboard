@@ -1,7 +1,7 @@
-# project_name: "mb_tabbed_dashboards"
+# project_name: "tabbed_dash_2"
 
-application: tabbed_dashboards {
-  label: "Tabbed Dashboards"
+application: tabbed_dash_2 {
+  label: "tabbed_dash_2"
   url: "http://localhost:8080/bundle.js"
   # file: "bundle.js
   entitlements: {
